@@ -1,1 +1,1 @@
-Exercise 6 Working with Git
+Exercise 6 Working with GitHub
