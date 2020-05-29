@@ -1,1 +1,1 @@
-Exercise 6 Working with GitHub
+QA Exercise 6 - Working with GitHub
